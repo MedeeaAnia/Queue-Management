@@ -1,0 +1,480 @@
+Timer: 0
+Average waiting time: 0.0
+Average service time: 0
+Peak hour: 0
+Waiting tasks: (4,7,3)(2,16,4)(3,22,4)(1,28,3)
+Queue1
+
+Queue2
+
+
+Closed queue1
+
+Closed queue2
+
+
+Timer: 1
+Average waiting time: 0.0
+Average service time: 0
+Peak hour: 0
+Waiting tasks: (4,7,3)(2,16,4)(3,22,4)(1,28,3)
+Queue1
+
+Queue2
+
+
+Closed queue1
+
+Closed queue2
+
+
+Timer: 2
+Average waiting time: 0.0
+Average service time: 0
+Peak hour: 0
+Waiting tasks: (4,7,3)(2,16,4)(3,22,4)(1,28,3)
+Queue1
+
+Queue2
+
+
+Closed queue1
+
+Closed queue2
+
+
+Timer: 3
+Average waiting time: 0.0
+Average service time: 0
+Peak hour: 0
+Waiting tasks: (4,7,3)(2,16,4)(3,22,4)(1,28,3)
+Queue1
+
+Queue2
+
+
+Closed queue1
+
+Closed queue2
+
+
+Timer: 4
+Average waiting time: 0.0
+Average service time: 0
+Peak hour: 0
+Waiting tasks: (4,7,3)(2,16,4)(3,22,4)(1,28,3)
+Queue1
+
+Queue2
+
+
+Closed queue1
+
+Closed queue2
+
+
+Timer: 5
+Average waiting time: 0.0
+Average service time: 0
+Peak hour: 0
+Waiting tasks: (4,7,3)(2,16,4)(3,22,4)(1,28,3)
+Queue1
+
+Queue2
+
+
+Closed queue1
+
+Closed queue2
+
+
+Timer: 6
+Average waiting time: 0.0
+Average service time: 0
+Peak hour: 0
+Waiting tasks: (4,7,3)(2,16,4)(3,22,4)(1,28,3)
+Queue1
+
+Queue2
+
+
+Closed queue1
+
+Closed queue2
+
+
+Timer: 7
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (2,16,4)(3,22,4)(1,28,3)
+Queue1
+(4,7,3)
+Queue2
+
+
+Closed queue1
+
+Closed queue2
+
+
+Timer: 8
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (2,16,4)(3,22,4)(1,28,3)
+Queue1
+(4,7,3)
+Queue2
+
+
+Closed queue1
+
+Closed queue2
+
+
+Timer: 9
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (2,16,4)(3,22,4)(1,28,3)
+Queue1
+(4,7,2)
+Queue2
+
+
+Closed queue1
+
+Closed queue2
+
+
+Timer: 10
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (2,16,4)(3,22,4)(1,28,3)
+Queue1
+(4,7,1)
+Queue2
+
+
+Closed queue1
+
+Closed queue2
+
+
+Timer: 11
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (2,16,4)(3,22,4)(1,28,3)
+Queue1
+
+Queue2
+
+
+Closed queue1
+(4,7,3)
+Closed queue2
+
+
+Timer: 12
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (2,16,4)(3,22,4)(1,28,3)
+Queue1
+
+Queue2
+
+
+Closed queue1
+(4,7,3)
+Closed queue2
+
+
+Timer: 13
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (2,16,4)(3,22,4)(1,28,3)
+Queue1
+
+Queue2
+
+
+Closed queue1
+(4,7,3)
+Closed queue2
+
+
+Timer: 14
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (2,16,4)(3,22,4)(1,28,3)
+Queue1
+
+Queue2
+
+
+Closed queue1
+(4,7,3)
+Closed queue2
+
+
+Timer: 15
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (2,16,4)(3,22,4)(1,28,3)
+Queue1
+
+Queue2
+
+
+Closed queue1
+(4,7,3)
+Closed queue2
+
+
+Timer: 16
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (3,22,4)(1,28,3)
+Queue1
+(2,16,4)
+Queue2
+
+
+Closed queue1
+(4,7,3)
+Closed queue2
+
+
+Timer: 17
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (3,22,4)(1,28,3)
+Queue1
+(2,16,3)
+Queue2
+
+
+Closed queue1
+(4,7,3)
+Closed queue2
+
+
+Timer: 18
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (3,22,4)(1,28,3)
+Queue1
+(2,16,2)
+Queue2
+
+
+Closed queue1
+(4,7,3)
+Closed queue2
+
+
+Timer: 19
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (3,22,4)(1,28,3)
+Queue1
+(2,16,1)
+Queue2
+
+
+Closed queue1
+(4,7,3)
+Closed queue2
+
+
+Timer: 20
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (3,22,4)(1,28,3)
+Queue1
+
+Queue2
+
+
+Closed queue1
+(4,7,3)(2,16,4)
+Closed queue2
+
+
+Timer: 21
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (3,22,4)(1,28,3)
+Queue1
+
+Queue2
+
+
+Closed queue1
+(4,7,3)(2,16,4)
+Closed queue2
+
+
+Timer: 22
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (1,28,3)
+Queue1
+(3,22,4)
+Queue2
+
+
+Closed queue1
+(4,7,3)(2,16,4)
+Closed queue2
+
+
+Timer: 23
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (1,28,3)
+Queue1
+(3,22,3)
+Queue2
+
+
+Closed queue1
+(4,7,3)(2,16,4)
+Closed queue2
+
+
+Timer: 24
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (1,28,3)
+Queue1
+(3,22,2)
+Queue2
+
+
+Closed queue1
+(4,7,3)(2,16,4)
+Closed queue2
+
+
+Timer: 25
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (1,28,3)
+Queue1
+(3,22,1)
+Queue2
+
+
+Closed queue1
+(4,7,3)(2,16,4)
+Closed queue2
+
+
+Timer: 26
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (1,28,3)
+Queue1
+
+Queue2
+
+
+Closed queue1
+(4,7,3)(2,16,4)(3,22,4)
+Closed queue2
+
+
+Timer: 27
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: (1,28,3)
+Queue1
+
+Queue2
+
+
+Closed queue1
+(4,7,3)(2,16,4)(3,22,4)
+Closed queue2
+
+
+Timer: 28
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: 
+Queue1
+(1,28,3)
+Queue2
+
+
+Closed queue1
+(4,7,3)(2,16,4)(3,22,4)
+Closed queue2
+
+
+Timer: 29
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: 
+Queue1
+(1,28,2)
+Queue2
+
+
+Closed queue1
+(4,7,3)(2,16,4)(3,22,4)
+Closed queue2
+
+
+Timer: 30
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: 
+Queue1
+(1,28,1)
+Queue2
+
+
+Closed queue1
+(4,7,3)(2,16,4)(3,22,4)
+Closed queue2
+
+
+Timer: 31
+Average waiting time: 0.0
+Average service time: 3
+Peak hour: 7
+Waiting tasks: 
+Queue1
+
+Queue2
+
+
+Closed queue1
+(4,7,3)(2,16,4)(3,22,4)(1,28,3)
+Closed queue2
+
+

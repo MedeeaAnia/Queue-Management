@@ -1,0 +1,171 @@
+Timer: 0
+Average waiting time: 0.0
+Average service time: 0
+Peak hour: 0
+Waiting tasks: (1,2,2)(2,2,3)(4,2,3)(6,3,2)(5,4,2)(3,5,3)(7,5,2)
+Queue1
+
+Queue2
+
+Queue3
+
+
+Closed queue1
+
+Closed queue2
+
+Closed queue3
+
+
+Timer: 1
+Average waiting time: 0.0
+Average service time: 0
+Peak hour: 0
+Waiting tasks: (1,2,2)(2,2,3)(4,2,3)(6,3,2)(5,4,2)(3,5,3)(7,5,2)
+Queue1
+
+Queue2
+
+Queue3
+
+
+Closed queue1
+
+Closed queue2
+
+Closed queue3
+
+
+Timer: 2
+Average waiting time: 0.0
+Average service time: 2
+Peak hour: 2
+Waiting tasks: (6,3,2)(5,4,2)(3,5,3)(7,5,2)
+Queue1
+(1,2,2)
+Queue2
+(2,2,3)
+Queue3
+(4,2,3)
+
+Closed queue1
+
+Closed queue2
+
+Closed queue3
+
+
+Timer: 3
+Average waiting time: 0.0
+Average service time: 2
+Peak hour: 3
+Waiting tasks: (5,4,2)(3,5,3)(7,5,2)
+Queue1
+(1,2,1)(6,3,2)
+Queue2
+(2,2,2)
+Queue3
+(4,2,2)
+
+Closed queue1
+
+Closed queue2
+
+Closed queue3
+
+
+Timer: 4
+Average waiting time: 0.0
+Average service time: 2
+Peak hour: 3
+Waiting tasks: (3,5,3)(7,5,2)
+Queue1
+(6,3,2)
+Queue2
+(2,2,1)(5,4,2)
+Queue3
+(4,2,1)
+
+Closed queue1
+(1,2,2)
+Closed queue2
+
+Closed queue3
+
+
+Timer: 5
+Average waiting time: 0.0
+Average service time: 2
+Peak hour: 3
+Waiting tasks: 
+Queue1
+(6,3,1)(7,5,2)
+Queue2
+(5,4,2)
+Queue3
+(3,5,3)
+
+Closed queue1
+(1,2,2)
+Closed queue2
+(2,2,3)
+Closed queue3
+(4,2,3)
+
+Timer: 6
+Average waiting time: 0.0
+Average service time: 2
+Peak hour: 3
+Waiting tasks: 
+Queue1
+(7,5,2)
+Queue2
+(5,4,1)
+Queue3
+(3,5,2)
+
+Closed queue1
+(1,2,2)(6,3,2)
+Closed queue2
+(2,2,3)
+Closed queue3
+(4,2,3)
+
+Timer: 7
+Average waiting time: 0.0
+Average service time: 2
+Peak hour: 3
+Waiting tasks: 
+Queue1
+(7,5,1)
+Queue2
+
+Queue3
+(3,5,1)
+
+Closed queue1
+(1,2,2)(6,3,2)
+Closed queue2
+(2,2,3)(5,4,2)
+Closed queue3
+(4,2,3)
+
+Timer: 8
+Average waiting time: 0.0
+Average service time: 2
+Peak hour: 3
+Waiting tasks: 
+Queue1
+
+Queue2
+
+Queue3
+
+
+Closed queue1
+(1,2,2)(6,3,2)(7,5,2)
+Closed queue2
+(2,2,3)(5,4,2)
+Closed queue3
+(4,2,3)(3,5,3)
+
